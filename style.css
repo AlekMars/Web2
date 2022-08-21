@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+p {
+color: rgb(55, 0, 255);
+margin-left: 15px;
+}
+h1 {
+    color: brown;
+    margin: 0;
+}
